@@ -1,1 +1,5 @@
 com\myking\serverapp\ServerappApplication.class
+com\myking\serverapp\region\RegionService.class
+com\myking\serverapp\region\RegionRepository.class
+com\myking\serverapp\region\Region.class
+com\myking\serverapp\region\RegionController.class
